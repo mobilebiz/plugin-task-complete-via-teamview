@@ -62,7 +62,7 @@ Update the copied .env file with an editor. The contents to be updated are as fo
 | :----------------------- | :----------------------------------------------------------------- |
 | FLEX_APP_FUNCTION_DOMAIN | task-complete-XXXX-dev.twil.io(Change XXXX to your configuration.) |
 
-### Change I18N
+### i18n
 
 The standard language setting is Japanese, but if you want to use it in English, change the 4th line of `src/components/MonitorTaskInfo.jsx` as follows.
 
